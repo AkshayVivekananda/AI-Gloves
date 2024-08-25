@@ -1,4 +1,5 @@
-# **Flex Sensor Communication System**
+# ![Circuit Diagram](./Source%20Code%20and%20Circuit%20Diagram/title.png)
+
 
 ## **Table of Contents**
 
@@ -30,12 +31,12 @@ The source code for the project can be found in the following file: [source.ino]
 
 | **Sl No** | **Name**             | **Image** | **Quantity** | **Price** |
 |-----------|----------------------|-----------|--------------|-----------|
-| 1         | Flex Sensors          | ![Flex Sensor](./images/flexsensor.png) | 10           | ₹___      |
+| 1         | Flex Sensors          | ![Hc-SR04](./Stock%20Images/Hc-SR04.png)
+ | 5           | ₹___      |
 | 2         | Arduino Nano          | ![Arduino Nano](./images/arduino_nano.png) | 1            | ₹___      |
 | 3         | DFmini MP3 Player     | ![DFmini](./images/dfmini.png) | 1            | ₹___      |
 | 4         | SD Card               | ![SD Card](./images/sdcard.png) | 1            | ₹___      |
 | 5         | Loudspeaker           | ![Loudspeaker](./images/loudspeaker.png) | 1            | ₹___      |
-| 6         | Jumper Wires          | ![Jumper Wires](./images/jumperwires.png) | __           | ₹___      |
 
 *Note: The prices mentioned above are sourced from Amazon. It is advisable to purchase from a wholesale electronics dealer. We bought our components from SP Road Bangalore, Vishal Electronics.*  
 **Location map**: [Vishal Electronics, SP Road Bangalore](https://maps.app.goo.gl/qmP8eU92v7zgoXFd9)
