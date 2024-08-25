@@ -1,4 +1,5 @@
-<h2 style="font-family: 'Algerian', sans-serif;"><strong>Table of Contents</strong></h2>
+<img src="./Source%20Code%20and%20Circuit%20Diagram/title.png" alt="Circuit Diagram" width="600" height="60">
+
 ## **Table of Contents**
 
 | **Sl No** | **Title**               |
