@@ -1,4 +1,4 @@
-<img src="./Source%20Code%20and%20Circuit%20Diagram/wer.png" alt="Circuit Diagram" width="1500" height="120">
+<img src="./Source%20Code%20and%20Circuit%20Diagram/xer.png" alt="Circuit Diagram" width="1500" height="120">
 
 ## **Table of Contents**
 
