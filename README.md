@@ -1,7 +1,5 @@
 # <img src="./Source%20Code%20and%20Circuit%20Diagram/title.png" alt="Circuit Diagram" width="1500" height="300">
 
-
-
 ## **Table of Contents**
 
 | **Sl No** | **Title**               |
