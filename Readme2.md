@@ -1,18 +1,63 @@
-# **Flex Sensor Communication System**
+# Markdown Lists
 
-## **Table of Contents**
+## Unordered Lists
 
-| **Sl No** | **Title**               |
-|-----------|--------------------------|
-| 1         | [Project Title](https://github.com/AkshayVivekananda/AI-Gloves#project-title)            |
-| 2         | [About the Project](https://github.com/AkshayVivekananda/AI-Gloves#about-the-project)        |
-| 3         | [Circuit Diagram](https://github.com/AkshayVivekananda/AI-Gloves#circuit-diagram)          |
-| 4         | [Source Code](https://github.com/AkshayVivekananda/AI-Gloves#source-code)              |
-| 5         | [List of Components](https://github.com/AkshayVivekananda/AI-Gloves#list-of-components)       |
-| 6         | [Setup and Installation](https://github.com/AkshayVivekananda/AI-Gloves#setup-and-installation)   |
-| 7         | [Debugging](https://github.com/AkshayVivekananda/AI-Gloves#debugging)                |
+- 📝 Item 1
+- 📚 Item 2
+  - 🔹 Subitem 1
+  - 🔹 Subitem 2
 
-## **About the Project**
+* 🌟 Item 1
+* 🌟 Item 2
+  * 🔸 Subitem 1
+  * 🔸 Subitem 2
+    
 
-This project is designed to assist individuals with speech disabilities in communicating essential messages using flex sensors. The system involves 5 flex sensors attached to each hand, which are connected to an Arduino Nano. When the sensors are bent, specific messages such as "give me water," "give me food," or "I need help" are played through a loudspeaker. The sounds are stored on an SD card and played using a DFmini module.
++ 🎯 Item 1
++ 🎯 Item 2
+  + 🔹 Subitem 1
+  + 🔹 Subitem 2
 
+## Ordered Lists
+
+1. 🥇 First item
+2. 🥈 Second item
+   1. 🔹 Subitem 1
+   2. 🔹 Subitem 2
+3. 🥉 Third item
+
+## Definition Lists
+
+**Term 1**  
+🔍 Definition 1
+
+**Term 2**  
+🔍 Definition 2
+  * ✨ Subdefinition 1
+  * ✨ Subdefinition 2
+
+## Checklists
+
+- [ ] 🛠️ Task 1
+- [x] ✅ Task 2
+  - [ ] 🔧 Subtask 1
+  - [x] ✅ Subtask 2
+
+## Nested Lists
+
+1. 📋 First item
+   - 🔸 Subitem 1
+   - 🔸 Subitem 2
+     1. 🔹 Sub-subitem 1
+     2. 🔹 Sub-subitem 2
+2. 📂 Second item
+   * 🔹 Subitem 1
+   * 🔹 Subitem 2
+
+## Combining Lists
+
+- 🌐 Item 1
+- 🌐 Item 2
+  1. 🔹 Subitem 1
+  2. 🔹 Subitem 2
+- 🌟 Item 3
