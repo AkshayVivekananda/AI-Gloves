@@ -1,8 +1,5 @@
-# ![Circuit Diagram](./Source%20Code%20and%20Circuit%20Diagram/title.png)
-
-
 <h2 style="font-family: 'Algerian', sans-serif;"><strong>Table of Contents</strong></h2>
-
+## **Table of Contents**
 
 | **Sl No** | **Title**               |
 |-----------|-------------------------|
@@ -32,8 +29,7 @@ The source code for the project can be found in the following file: [source.ino]
 
 | **Sl No** | **Name**             | **Image** | **Quantity** | **Price** |
 |-----------|----------------------|-----------|--------------|-----------|
-| 1         | Flex Sensors          | ![Hc-SR04](./Stock%20Images/Hc-SR04.png)
- | 5           | ₹___      |
+| 1         | Flex Sensors          | <img src="./Stock%20Images/Hc-SR04.png" alt="Hc-SR04" width="200" height="150">| 5           | ₹___      |
 | 2         | Arduino Nano          | ![Arduino Nano](./images/arduino_nano.png) | 1            | ₹___      |
 | 3         | DFmini MP3 Player     | ![DFmini](./images/dfmini.png) | 1            | ₹___      |
 | 4         | SD Card               | ![SD Card](./images/sdcard.png) | 1            | ₹___      |
