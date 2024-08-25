@@ -1,4 +1,4 @@
-# <img src="./Source%20Code%20and%20Circuit%20Diagram/title.png" alt="Circuit Diagram" width="1500" height="300">
+# <img src="./Source%20Code%20and%20Circuit%20Diagram/title.png" alt="Circuit Diagram" width="1500" height="150">
 
 ## **Table of Contents**
 
