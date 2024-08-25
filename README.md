@@ -18,7 +18,9 @@ This project is designed to assist individuals with speech disabilities in commu
 
 ## **Circuit Diagram**
 
-![Circuit Diagram](./Circuit%20Diagram.jpg)
+![Circuit Diagram](./Source%20Code%20and%20Circuit%20Diagram/Circuit%20Diagram.jpg)
+
+
 
 ## **Source Code**
 
