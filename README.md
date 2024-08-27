@@ -138,9 +138,8 @@ The source code for the project can be found in folder or downloaded from the fo
      1. **Navigate to the Sketch Folder**:
 	- Download and Copy the `mp3tf16p` file : [mp3tf16p.h](https://drive.google.com/uc?export=download&id=1-oDcIRxE-Hk6dw81_IAwkHxjb1hbN9Ht)
         - Open the Arduino IDE.
-        - Go to **Sketch > Show Sketch Folder > Paste the file.**
-        - Navigate to the extracted project folder and locate `libraries/mp3tf16p`. 
-        - Select the `mp3tf16p` folder and click **Open**. This will add the library to your Arduino IDE.
+        - Go to **Sketch > Show Sketch Folder > Paste the file below your current sketch.**
+       
 
      2. Alternatively, if you prefer to manually place the file:
         - Download and Copy the `mp3tf16p` file : [mp3tf16p.h](https://drive.google.com/uc?export=download&id=1-oDcIRxE-Hk6dw81_IAwkHxjb1hbN9Ht)
