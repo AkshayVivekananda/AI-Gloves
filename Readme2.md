@@ -45,7 +45,7 @@
 
 ## Nested Lists
 
-1. 📋 First item
+📋 First item
    - 🔸 Subitem 1
    - 🔸 Subitem 2
      1. 🔹 Sub-subitem 1
