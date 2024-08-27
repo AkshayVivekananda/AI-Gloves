@@ -1,6 +1,6 @@
-# **💫IoT Project - SMART GLOVES**
+# **💫 IoT Project - SMART GLOVES**
 
-## **✨Table of Contents**
+## **✨ Table of Contents**
 
 <div align="center">
 
@@ -44,13 +44,13 @@
 
 <br>
 
-## **🌟About the Project**
+## **💠About the Project**
 
 This project is designed to assist individuals with speech disabilities in communicating essential messages using flex sensors. The system involves 5 flex sensors attached to each hand, which are connected to an Arduino Nano. When the sensors are bent, specific messages such as "give me water," "give me food," or "I need help" are played through a loudspeaker. The sounds are stored on an SD card and played using a DFmini module.
 
 <br>
 
-## **Circuit Diagram**
+## **💡Circuit Diagram**
 
 <p align="center">
 
@@ -122,7 +122,7 @@ The source code for the project can be found in folder or downloaded from the fo
 
 <br>
 
-## **⚙️Setup and Installation**
+## **⚙️ Setup and Installation**
 
 1. **Assembling the Circuit**: Begin by connecting the flex sensors, Arduino Nano, DFmini, SD card, and loudspeaker as per the circuit diagram.
 2. **Configuring Arduino IDE**: 
@@ -137,7 +137,7 @@ The source code for the project can be found in folder or downloaded from the fo
 
 ## **🔍 Debugging**
 
-### **DFmini Player and Loudspeaker Debugging**
+### **🍀 DFmini Player and Loudspeaker Debugging**
 
 <p align="center">
 
@@ -167,7 +167,7 @@ The code for DFmini and Loudspeaker can be found in the above folder or download
 
 ---
 
-### **Flex Sensor and Arduino Debugging**
+### **🍀 Flex Sensor and Arduino Debugging**
 
 <p align="center">
 
