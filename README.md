@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td>1</td>
-    <td><a href="#project-title">Project Title</a></td>
+    <td><a href="https://github.com/AkshayVivekananda/IoT-Project_Smart_Gloves?tab=readme-ov-file#-iot-project---smart-gloves">Project Title</a></td>
   </tr>
   <tr>
     <td>2</td>
@@ -23,21 +23,22 @@
   </tr>
   <tr>
     <td>4</td>
-    <td><a href="#source-code">Source Code</a></td>
+    <td><a href="https://github.com/AkshayVivekananda/IoT-Project_Smart_Gloves?tab=readme-ov-file#-source-code">Source Code</a></td>
   </tr>
   <tr>
     <td>5</td>
-    <td><a href="#list-of-components">List of Components</a></td>
+    <td><a href="https://github.com/AkshayVivekananda/IoT-Project_Smart_Gloves?tab=readme-ov-file#%EF%B8%8F-list-of-components">List of Components</a></td>
   </tr>
   <tr>
     <td>6</td>
-    <td><a href="#setup-and-installation">Setup and Installation</a></td>
+    <td><a href="https://github.com/AkshayVivekananda/IoT-Project_Smart_Gloves?tab=readme-ov-file#%EF%B8%8F-setup-and-installation">Setup and Installation</a></td>
   </tr>
   <tr>
     <td>7</td>
-    <td><a href="#debugging">Debugging</a></td>
+    <td><a href="https://github.com/AkshayVivekananda/IoT-Project_Smart_Gloves?tab=readme-ov-file#%EF%B8%8F-setup-and-installation">Debugging</a></td>
   </tr>
 </table>
+
 
 </div>
 
