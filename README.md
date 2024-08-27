@@ -1,9 +1,8 @@
 # **💫 IoT Project - SMART GLOVES**
 
 ## **✨ Table of Contents**
-
+<br>
 <div align="center">
-
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <th>Sl No</th>
@@ -46,7 +45,9 @@
 
 ## **💠About the Project**
 
-This project is designed to assist individuals with speech disabilities in communicating essential messages using flex sensors. The system involves 5 flex sensors attached to each hand, which are connected to an Arduino Nano. When the sensors are bent, specific messages such as "give me water," "give me food," or "I need help" are played through a loudspeaker. The sounds are stored on an SD card and played using a DFmini module.
+This project is designed to assist individuals with speech disabilities in communicating essential messages using flex sensors. The system involves 4 flex sensors attached to each finger of a hand except thumb, which are connected to an Arduino Nano. When the fingers are bent, specific messages such as "I need help", "I need water," "I need food" and "Emergency number" are played through a loudspeaker. The sounds are stored on an SD card and played using a DFmini module.
+
+Working video of the project : 
 
 <br>
 
@@ -62,11 +63,12 @@ This project is designed to assist individuals with speech disabilities in commu
 
 ## **💻 Source Code**
 
-The source code for the project can be found in folder or downloaded from the following link: [SOURCE CODE](https://drive.google.com/uc?export=download&id=13b_jAJNtJDgeBUJKpzmETdV6VbZlZKHs)
+The source code for the project can be found in folder or downloaded from the following link : [SOURCE CODE](https://drive.google.com/uc?export=download&id=1Sb3FewUtpXnANqbu5UzagMpI6pIyiYNy)
 
 <br>
 
 ## **🛠️ List of Components**
+<br>
 
 <div align="center">
 
@@ -76,48 +78,44 @@ The source code for the project can be found in folder or downloaded from the fo
     <th>Name</th>
     <th>Image</th>
     <th>Quantity</th>
-    <th>Price</th>
+
   </tr>
   <tr>
     <td>1</td>
     <td>Flex Sensors</td>
-    <td><img src="./Stock%20Images/Hc-SR04.png" alt="Hc-SR04" width="200" height="100"></td>
+    <td><img src="./Stock%20Images/flex%20sensor.jpg" alt="Hc-SR04" width="200" height="100"></td>
     <td>5</td>
-    <td>₹___</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Arduino Nano</td>
-    <td><img src="./images/arduino_nano.png" alt="Arduino Nano" width="200" height="100"></td>
+    <td><img src="./Stock%20Images/arduino%20nano.png" alt="Arduino Nano" width="200" height="100"></td>
     <td>1</td>
-    <td>₹___</td>
   </tr>
   <tr>
     <td>3</td>
     <td>DFmini MP3 Player</td>
-    <td><img src="./images/dfmini.png" alt="DFmini" width="200" height="100"></td>
+    <td><img src="./Stock%20Images/dfmini.jpg" alt="DFmini" width="200" height="100"></td>
     <td>1</td>
-    <td>₹___</td>
   </tr>
   <tr>
     <td>4</td>
     <td>SD Card</td>
-    <td><img src="./images/sdcard.png" alt="SD Card" width="200" height="100"></td>
+    <td><img src="./Stock%20Images/sdcard.jpg" alt="SD Card" width="200" height="100"></td>
     <td>1</td>
-    <td>₹___</td>
   </tr>
   <tr>
     <td>5</td>
     <td>Loudspeaker</td>
-    <td><img src="./images/loudspeaker.png" alt="Loudspeaker" width="200" height="100"></td>
+    <td><img src="./Stock%20Images/loudspeaker.png" alt="Loudspeaker" width="200" height="100"></td>
     <td>1</td>
-    <td>₹___</td>
   </tr>
 </table>
 
 </div>
+<br>
 
-*Note: The prices mentioned above are sourced from Amazon. It is advisable to purchase from a wholesale electronics dealer. We bought our components from SP Road Bangalore, Vishal Electronics.*  
+*Note: It is advisable to purchase from a wholesale electronics dealer for lower prices. We bought our components from SP Road Bangalore, Vishal Electronics.*  
 **Location map**: [Vishal Electronics, SP Road Bangalore](https://maps.app.goo.gl/qmP8eU92v7zgoXFd9)
 
 <br>
@@ -139,15 +137,15 @@ The source code for the project can be found in folder or downloaded from the fo
 
 ## **🔍 Debugging**
 
-### **🍀 DFmini Player and Loudspeaker Debugging**
+### **🍀 DFmini Player and Loudspeaker Debugging :**
 
 <p align="center">
 
-<img src="Debugging/Loud%20Speaker%20and%20DF%20Mini.png" alt="Loud Speaker and DF Mini Debugging" style="width: 500px; height: 300px;">
+<img src="Debugging/Loud%20Speaker%20and%20DFMini/Loud%20Speaker%20and%20DF%20Mini.png" alt="Loud Speaker and DF Mini" width="500" height="300"/>
 
 </p>
 
-The code for DFmini and Loudspeaker can be found in the above folder or downloaded here: [FLEX](https://drive.google.com/uc?export=download&id=13b_jAJNtJDgeBUJKpzmETdV6VbZlZKHs)
+The code for DFmini and Loudspeaker can be found in the above folder or downloaded here: [DFmini and Loudspeaker](https://drive.google.com/uc?export=download&id=1SIv7A-lkiFImHIKamiQnW-290AbOn4db)
 
 ### Steps for Debugging:
 
@@ -155,7 +153,7 @@ The code for DFmini and Loudspeaker can be found in the above folder or download
 - Disconnect all other sensors and components, leaving only the DFmini player and the loudspeaker connected to the Arduino Nano.
 
 ### 2) Prepare the SD Card
-- **Format the SD Card**: Format the SD card to FAT32.
+- **Format the SD Card**: Format the SD card.
 - **Add Audio Files**: Copy your audio files to the root directory of the SD card. Ensure they are in MP3 format and not stored in any folders. The filenames can be anything, such as `song1.mp3`, `alert.mp3`, etc.
 - **Insert the SD Card**: Insert the SD card into the DFmini player module.
 
@@ -170,17 +168,15 @@ The code for DFmini and Loudspeaker can be found in the above folder or download
 <br>
 
 ---
-<br>
-
-### **🍀 Flex Sensor and Arduino Debugging**
+### **🍀 Flex Sensor and Arduino Debugging :**
 
 <p align="center">
 
-<img src="Debugging/Flexsensor.png" alt="Flex Sensor Debugging" style="width: 500px; height: 300px;">
+<img src="Debugging/Flex%20Sensor/Flexsensor.png" alt="Flex Sensor" width="500" height="300"/>
 
 </p>
 
-The code for Flex sensor can be found in the above folder or downloaded here: [FLEX](https://drive.google.com/uc?export=download&id=13b_jAJNtJDgeBUJKpzmETdV6VbZlZKHs)
+The code for Flex sensor can be found in the above folder or downloaded here: [FLEX](https://drive.google.com/uc?export=download&id=1kzrMreTcd1vTAA712WlcwYfqM531p4qX)
 
 ### Steps for Debugging:
 
