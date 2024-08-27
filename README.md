@@ -122,16 +122,35 @@ The source code for the project can be found in folder or downloaded from the fo
 
 ## **⚙️ Setup and Installation**
 
-1. **Assembling the Circuit**: Begin by connecting the flex sensors, Arduino Nano, DFmini, SD card, and loudspeaker as per the circuit diagram.
-2. **Configuring Arduino IDE**: 
+1. **Download the Entire GitHub Repo**: [Smart Gloves](https://github.com/AkshayVivekananda/AI-Gloves/archive/refs/heads/main.zip). 
+    - Extract the ZIP file to access the project files.
+
+2. **Assembling the Circuit**: Begin by connecting the flex sensors, Arduino Nano, DFmini, SD card, and loudspeaker as per the circuit diagram.
+
+3. **Configuring Arduino IDE**:
    - Open the Arduino IDE.
    - Connect your Arduino Nano to your computer via USB.
    - Go to **Tools > Board > Arduino Nano**.
    - Select the correct port under **Tools > Port**.
-3. **Uploading the Code**: 
+
+4. **Include the Library**: Ensure that the `mp3tf16p.h` file is included in the Arduino libraries folder. To do this:
+     1. **Navigate to the Libraries Folder**:
+        - Open the Arduino IDE.
+        - Go to **Sketch > Show Sketch Folder > Paste the file.**
+        - Navigate to the extracted project folder and locate `libraries/mp3tf16p`. 
+        - Select the `mp3tf16p` folder and click **Open**. This will add the library to your Arduino IDE.
+
+     2. Alternatively, if you prefer to manually place the file:
+        - Download and Copy the `mp3tf16p` file : [mp3tf16p.h]()
+        - Navigate to your Arduino libraries folder on your computer. This is typically located in `Documents/Arduino`.
+        - Paste the `mp3tf16p` file in your Project folder, below your Sketch.
+
+5. **Uploading the Code**:
    - Open the `source.ino` file in Arduino IDE.
    - Click on **Upload** to upload the code to the Arduino Nano.
-4. **Testing**: Once uploaded, you can test the system by bending the flex sensors to trigger the appropriate messages.
+
+6. **Testing**: Once uploaded, you can test the system by bending the flex sensors to trigger the appropriate messages in the loudspeaker.
+
 
 <br>
 
@@ -176,7 +195,7 @@ The code for DFmini and Loudspeaker can be found in the above folder or download
 
 </p>
 
-The code for Flex sensor can be found in the above folder or downloaded here: [FLEX](https://drive.google.com/uc?export=download&id=1kzrMreTcd1vTAA712WlcwYfqM531p4qX)
+The code for Flex sensor can be found in the above folder or downloaded here: [Flex](https://drive.google.com/uc?export=download&id=1kzrMreTcd1vTAA712WlcwYfqM531p4qX)
 
 ### Steps for Debugging:
 
@@ -184,11 +203,11 @@ The code for Flex sensor can be found in the above folder or downloaded here: [F
 - Disconnect all other components, leaving only the flex sensor connected to the A0 pin of the Arduino Nano.
 
 ### 2) Prepare the Flex Sensor
-- **Check the Connection**: Ensure that one end of the flex sensor is connected to the A0 pin of the Arduino Nano, and the other end is connected to ground (GND) through a resistor.
-- **Verify the Wiring**: Double-check the wiring for any loose connections or incorrect placements.
+- Make the connections as per as the diagram. 
+- The resistor used is `10kΩ`. 
 
 ### 3) Upload Test Code
-- **Adjust the Code**: Modify the test code to read the analog input from the A0 pin. The code should include a command like `int flexValue = analogRead(A0);` to read the value from the flex sensor.
+- **Adjust the Code**: Modify the test code to read the analog input from the A0 pin. The code should include a command like `const int flexPin = A0;` Here instead A0 replace with your analog port.
 - **Upload the Code**: Upload the code to the Arduino Nano.
 
 ### 4) Check Responses

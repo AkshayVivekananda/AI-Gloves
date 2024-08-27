@@ -1,4 +1,4 @@
-const int flexPin = A2;
+const int flexPin = A0;
  
 void setup() {
   Serial.begin(9600);
