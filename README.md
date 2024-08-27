@@ -4,13 +4,14 @@
 
 | **Sl No** | **Title**               |
 |-----------|-------------------------|
-| 1         | Project Title            |
-| 2         | About the Project        |
-| 3         | Circuit Diagram          |
-| 4         | Source Code              |
-| 5         | List of Components       |
-| 6         | Setup and Installation   |
-| 7         | Debugging                |
+| 1         | [Project Title](#project-title)            |
+| 2         | [About the Project](#about-the-project)        |
+| 3         | [Circuit Diagram](#circuit-diagram)          |
+| 4         | [Source Code](#source-code)              |
+| 5         | [List of Components](#list-of-components)       |
+| 6         | [Setup and Installation](#setup-and-installation)   |
+| 7         | [Debugging](#debugging)                |
+
 
 ## **About the Project**
 
