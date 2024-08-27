@@ -116,7 +116,7 @@ The source code for the project can be found in folder or downloaded from the fo
 </div>
 <br>
 
-*Note: It is advisable to purchase from a wholesale electronics dealer for lower prices. We bought our components from SP Road Bangalore, Vishal Electronics.*  
+*Note: It is advisable to purchase from a wholesale electronics dealer for lower prices. We bought our components from  Vishal Electronics, SP Road, Bangalore.*  
 **Location map**: [Vishal Electronics, SP Road Bangalore](https://maps.app.goo.gl/qmP8eU92v7zgoXFd9)
 
 <br>
@@ -198,7 +198,7 @@ The code for DFmini and Loudspeaker can be found in the above folder or download
 
 </p>
 
-The code for Flex sensor can be found in the above folder or downloaded here: [Flex](https://drive.google.com/uc?export=download&id=1kzrMreTcd1vTAA712WlcwYfqM531p4qX)
+The code for Flex sensor can be found in the above folder or downloaded here: [Flex Code](https://drive.google.com/uc?export=download&id=1kzrMreTcd1vTAA712WlcwYfqM531p4qX)
 
 ### Steps for Debugging:
 
