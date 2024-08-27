@@ -1,6 +1,7 @@
 # **💫 IoT Project - SMART GLOVES**
 
-## **✨ Table of Contents**
+## **✨&nbsp;Table of Contents**
+
 <br>
 <div align="center">
 <table border="1" cellpadding="5" cellspacing="0">
@@ -133,15 +134,16 @@ The source code for the project can be found in folder or downloaded from the fo
    - Go to **Tools > Board > Arduino Nano**.
    - Select the correct port under **Tools > Port**.
 
-4. **Include the Library**: Ensure that the `mp3tf16p.h` file is included in the Arduino libraries folder. To do this:
-     1. **Navigate to the Libraries Folder**:
+4. **Include the file**: Ensure that the `mp3tf16p.h` file is included in the Arduino libraries folder. To do this:
+     1. **Navigate to the Sketch Folder**:
+	- Download and Copy the `mp3tf16p` file : [mp3tf16p.h](https://drive.google.com/uc?export=download&id=1-oDcIRxE-Hk6dw81_IAwkHxjb1hbN9Ht)
         - Open the Arduino IDE.
         - Go to **Sketch > Show Sketch Folder > Paste the file.**
         - Navigate to the extracted project folder and locate `libraries/mp3tf16p`. 
         - Select the `mp3tf16p` folder and click **Open**. This will add the library to your Arduino IDE.
 
      2. Alternatively, if you prefer to manually place the file:
-        - Download and Copy the `mp3tf16p` file : [mp3tf16p.h]()
+        - Download and Copy the `mp3tf16p` file : [mp3tf16p.h](https://drive.google.com/uc?export=download&id=1-oDcIRxE-Hk6dw81_IAwkHxjb1hbN9Ht)
         - Navigate to your Arduino libraries folder on your computer. This is typically located in `Documents/Arduino`.
         - Paste the `mp3tf16p` file in your Project folder, below your Sketch.
 
@@ -150,6 +152,7 @@ The source code for the project can be found in folder or downloaded from the fo
    - Click on **Upload** to upload the code to the Arduino Nano.
 
 6. **Testing**: Once uploaded, you can test the system by bending the flex sensors to trigger the appropriate messages in the loudspeaker.
+
 
 
 <br>
