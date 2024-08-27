@@ -1,6 +1,6 @@
-# **IoT Project - SMART GLOVES**
+# **💫IoT Project - SMART GLOVES**
 
-## **Table of Contents**
+## **✨Table of Contents**
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 <br>
 
-## **About the Project**
+## **🌟About the Project**
 
 This project is designed to assist individuals with speech disabilities in communicating essential messages using flex sensors. The system involves 5 flex sensors attached to each hand, which are connected to an Arduino Nano. When the sensors are bent, specific messages such as "give me water," "give me food," or "I need help" are played through a loudspeaker. The sounds are stored on an SD card and played using a DFmini module.
 
@@ -60,13 +60,13 @@ This project is designed to assist individuals with speech disabilities in commu
 
 <br>
 
-## **Source Code**
+## **💻 Source Code**
 
 The source code for the project can be found in folder or downloaded from the following link: [SOURCE CODE](https://drive.google.com/uc?export=download&id=13b_jAJNtJDgeBUJKpzmETdV6VbZlZKHs)
 
 <br>
 
-## **List of Components**
+## **🛠️ List of Components**
 
 <div align="center">
 
@@ -122,7 +122,7 @@ The source code for the project can be found in folder or downloaded from the fo
 
 <br>
 
-## **Setup and Installation**
+## **⚙️Setup and Installation**
 
 1. **Assembling the Circuit**: Begin by connecting the flex sensors, Arduino Nano, DFmini, SD card, and loudspeaker as per the circuit diagram.
 2. **Configuring Arduino IDE**: 
@@ -135,7 +135,7 @@ The source code for the project can be found in folder or downloaded from the fo
    - Click on **Upload** to upload the code to the Arduino Nano.
 4. **Testing**: Once uploaded, you can test the system by bending the flex sensors to trigger the appropriate messages.
 
-## **Debugging**
+## **🔍 Debugging**
 
 ### **DFmini Player and Loudspeaker Debugging**
 
@@ -193,3 +193,4 @@ The code for Flex sensor can be found in the above folder or downloaded here: [F
 ### 4) Check Responses
 - **Flex Sensor Reading**: Monitor the serial output to ensure the Arduino is correctly reading the flex sensor's values. The values should change as you bend the sensor.
 - **Troubleshoot**: If the sensor is not providing expected readings, check the connections, try a different sensor, or adjust the resistor value.
+
