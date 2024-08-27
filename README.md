@@ -135,6 +135,8 @@ The source code for the project can be found in folder or downloaded from the fo
    - Click on **Upload** to upload the code to the Arduino Nano.
 4. **Testing**: Once uploaded, you can test the system by bending the flex sensors to trigger the appropriate messages.
 
+<br>
+
 ## **🔍 Debugging**
 
 ### **🍀 DFmini Player and Loudspeaker Debugging**
@@ -165,7 +167,10 @@ The code for DFmini and Loudspeaker can be found in the above folder or download
 - **DFmini Player**: Ensure the DFmini is correctly reading the SD card and sending audio data to the loudspeaker. The selected audio file should play through the loudspeaker.
 - **Loudspeaker**: If the loudspeaker is not producing sound, check the connections and try adjusting the volume or testing with a different audio file.
 
+<br>
+
 ---
+<br>
 
 ### **🍀 Flex Sensor and Arduino Debugging**
 
