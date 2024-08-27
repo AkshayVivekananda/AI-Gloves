@@ -172,6 +172,7 @@ The code for DFmini and Loudspeaker can be found in the above folder or download
 
 ### 1) Isolate DFmini and Loudspeaker
 - Disconnect all other sensors and components, leaving only the DFmini player and the loudspeaker connected to the Arduino Nano.
+- The resistor used is `1kΩ`.
 
 ### 2) Prepare the SD Card
 - **Format the SD Card**: Format the SD card.
