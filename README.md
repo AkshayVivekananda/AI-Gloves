@@ -85,7 +85,7 @@ The source code for the project can be found in folder or downloaded from the fo
     <td>1</td>
     <td>Flex Sensors</td>
     <td><img src="./Stock%20Images/flex%20sensor.jpg" alt="Hc-SR04" width="200" height="100"></td>
-    <td>5</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>2</td>
