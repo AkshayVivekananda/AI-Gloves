@@ -21,13 +21,13 @@ This project is designed to assist individuals with speech disabilities in commu
 
 <img src="./Source%20Code%20and%20Circuit%20Diagram/Circuit%20Diagram.jpg" alt="Circuit Diagram" style="width: 500px; height: 300px;">
 
-
+<br>
 
 ## **Source Code**
 
 The source code for the project can be found in folder or downloaded from the following link : [SOURCE CODE](https://drive.google.com/uc?export=download&id=13b_jAJNtJDgeBUJKpzmETdV6VbZlZKHs)
 
-
+<br>
 
 ## **List of Components**
 
